@@ -1,30 +1,30 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "https://gabriel-amorim.github.io/hugo" 
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+languageCode = "pt-BR"
 
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-author = "Erlich Bachman"
-title = "Erlich Bachman"
+author = "Gabriel Sant'Ana"
+title = "Gabriel Sant'Ana"
 
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Erlich Bachman"
-intro = "Startup Guru Extraordinaire"
-description = "Now @Pied Piper. Previously @Hacker Hostel, @Bachmanity and @Aviato. <br/> \"What is F times 5? It's Fleventy-five.\""
-authorimage = "headshot.jpg"
+author = "Grupo IB3"
+intro = "Teste"
+description = "Teste"
+authorimage = "logo_mirian3.png"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
